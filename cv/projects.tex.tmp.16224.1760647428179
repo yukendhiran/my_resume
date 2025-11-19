@@ -1,0 +1,106 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Projects}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+% \begin{cventries}
+
+\begin{cventries}
+
+  % \cventry
+  %   {Anavadya Softech Private Limited} % Organisation
+  %   {Fullstack Intern – Project Contributions} % Role/Title
+  %   {Bangalore, India} % Location
+  %   {Jul 2024 – May 2025} % Date(s)
+  %   {
+  %     \begin{cvitems} % Description(s) of projects
+  %       \item {Contributed to the frontend of the \textbf{Bank Direct Selling Agent (DSA) Platform – V1}, implementing complex workflows and integrating APIs.}
+  %       \item {Worked on both frontend and backend of \textbf{Bank DSA Platform – V2}, building CRUD APIs and enhancing UI/UX for better usability.}
+  %       \item {Developed the frontend for a \textbf{client's internal business management tool}, focusing on task handling, employee coordination, and streamlined workflows.}
+  %     \end{cvitems}
+  %   }
+
+\cventry
+  {Fullstack Developer – Technical Projects} % Title
+  {Anavadya Softech Private Limited} % Organisation
+  {Bangalore, India} % Location
+  {Jul 2024 -- Present} % Dates
+  {
+    \begin{cvitems}
+      \item {\textbf{CRMitra V1 \& V2 – DSA Platform}: Developed both V1 frontend and V2 fullstack architecture for direct selling agent platform. Built with React, Express.js, MongoDB, and implemented JWT authentication, CRUD APIs, and responsive UI components using TailwindCSS and DaisyUI.}
+      \item {\textbf{React + TanStack Template Development}: Created reusable React templates integrated with TanStack Router, TanStack Query, and modern form handling libraries to accelerate team development and maintain code consistency across projects.}
+      \item {\textbf{Cross-Runtime Backend Templates}: Designed and implemented flexible backend templates supporting multiple runtime environments (Node.js/Deno) with Express/Hono frameworks for rapid API development.}
+      \item {\textbf{Supabase + Next.js Integration}: Successfully integrated Supabase as backend solution with Next.js applications, implementing real-time features, authentication, and database operations for modern web applications.}
+      \item {\textbf{ERP System Frontend Modules}: Developed key frontend modules for internal ERP platform including dashboard components, data visualization, and form management systems with focus on user experience and performance.}
+      \item {\textbf{AI Development Setup}: Configured and optimized AI development workflows using Claude Code integrated with cost-effective language models and MCP (Model Context Protocol) for enhanced development productivity.}
+      \item {\textbf{Deployment Infrastructure Management}: Managed deployment pipelines using DigitalOcean for backend applications and Vercel for frontend hosting, implementing CI/CD practices and optimizing deployment strategies.}
+    \end{cvitems}
+  }
+
+\cventry
+  {Empowering Open Innovation through Blockchain} % Project Title
+  {Student Research Project – MCA} % Subtitle
+  {Vellore, India} % Location
+  {} % Duration
+  {
+    \begin{cvitems}
+      \item {Proposed a blockchain-based system to convert innovative ideas and research data into NFTs to enhance traceability and ownership security.}
+      \item {Built the frontend interface and integrated it with \textbf{ThirdWeb} platform and its smart contract, tools to manage NFT minting and access.}
+    \end{cvitems}
+  }
+\end{cventries}
+    %   \cventry
+    % {Anavadya Softech Private Limited} % Organisation
+    % {Bank Direct Selling Agent} % Project
+    % {Bangalore, India} % Location
+    % {Jul 2024 } % Date(s)
+    % {
+    %   \begin{cvitems} % Description(s) of project
+    %     \item {Worked on the frontend development for a Bank Direct Selling Agent platform, implementing complex workflows and integrating multiple APIs to streamline operations.}
+    %    % \item {Implemented a user-friendly interface with clear navigation and intuitive interactions, allowing visitors to easily explore my skills, projects, and experiences.}
+    %   %  \item {\textbf{Technical Skills:}NextJs, TailwindCSS, Framer Motion, Framer Motion, Sanity.}
+    %   %  \item {\textbf{Soft Skills:} Report writing, Logical Thinking, Critical Thinking.}
+    %   \end{cvitems}
+    % }
+
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+%  \cventry
+%    {Freelance project} % Organisation
+%    {Cloud Kitchen Website} % Project
+%    {Vellore, India} % Location
+%    {Jun 2024} % Date(s)
+%    {
+%      \begin{cvitems} % Description(s) of project
+%        \item {Developed a dynamic and responsive website for %a cloud kitchen, enhancing the online ordering experience.}
+%        %\item {Applied strong visual design principles to the %homepage, creating an aesthetically pleasing and %cohesive online presence that aligns with the brand %identity.}
+%        \item {Implemented real-time data fetching and %interactive features using Svelte, resulting in a fast %and engaging user interface.}
+%        \item {\textbf{Technical Skills:}Svelte, TailwindCSS, %API Integration, Prismic.}
+%      %  \item {\textbf{Soft Skills:} Time Management, %Teamwork, Presentation skills, Report writing.}
+%      \end{cvitems}
+%    }
+
+
+%---------------------------------------------------------
+%  \cventry
+%    {University of Leeds} % Organisation
+%    {IPL Analysis} % Project
+%    {Leeds, UK} % Location
+%    {Nov 2021 - Dec 2021} % Date(s)
+%    {
+ %     \begin{cvitems} % Description(s) of project
+%        \item {Analysing data from 2008 to 2015 to discover patterns such as trends, correlations, and probabilities.}
+ %       \item {Finding the differences between the best teams and players in various fields, as well as their performance on the field and the opponents.}
+  %      \item {\textbf{Technical Skills:} NextJs, TailwindCSS, ThreeJs, Framer Motion}
+      %  \item {\textbf{Soft Skills:} Presentation skills, Leadership, Teamwork, Logical Thinking.}
+   %   \end{cvitems}
+    %}
+
+%---------------------------------------------------------
+
+% \end{cventries}
